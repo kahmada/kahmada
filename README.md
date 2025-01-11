@@ -3,7 +3,7 @@
 
 <div align="center">
 <br/>
-<img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="Here is a little bit about me!">
+<img src="https://raw.githubusercontent.com/kahmada/kahmadaosse/master/assets/terminal.gif" alt="Here is a little bit about me!">
 
 <br />
 
