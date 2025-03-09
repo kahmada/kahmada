@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![kahmada's 42 stats](https://badge.mediaplus.ma/greenbinary/kahmada)](https://github.com/oakoudad/badge42)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kahmada)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="center" style="background-color: green; padding: 20px; border-radius: 10px;">
 <br/>
 
