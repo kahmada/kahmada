@@ -5,8 +5,7 @@
 <br/>
 
 <br />
-[![trophy](https://github-profile-trophy.vercel.app/?username=kahmada)](https://github.com/ryo-ma/github-profile-trophy)
-<br/>
+
 > **GIF loading a little slow? You can drink a cup of ☕ first**.
 
 <br/>
@@ -54,5 +53,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=kahmada&theme=dark&show_icons=true&bg_color=1f1f1f&icon_color=aff000)
 
 <br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kahmada)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
