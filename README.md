@@ -80,23 +80,4 @@ Passionate dev with strong skills in front-end and back-end : Next.js, React, No
 ### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=kahmada&theme=dark&show_icons=true&bg_color=1f1f1f&icon_color=aff000)
 
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kahmada)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🚀 Projects highlights
-- **Project A** — Full-stack app (Next.js + PostgreSQL + Docker)  
-- **Project B** — Real-time chat (Socket.IO + Node + MongoDB)  
-- **Project C** — High performance API (Go + Fastify + Postgres)  
-
-*(Ajoute ici des liens vers tes repos / démos / live sites)*
-
----
-
-### 📫 Contact
-- GitHub: `https://github.com/kahmada`  
-- Portfolio: *(ajoute ton lien)*  
-- Email: *(ajoute ton email si tu veux le rendre public)*
-
+</div>
