@@ -1,5 +1,5 @@
 # Hi there 👋
-[![kahmada's 42 stats](https://badge.mediaplus.ma/greenbinary/kahmada)](https://github.com/oakoudad/badge42)
+[![kahmada's 42 stats](https://badge.mediaplus.ma/levi/kahmada)](https://github.com/oakoudad/badge42)
 
 <div align="center" style="background-color: #0b8a3f; padding: 20px; border-radius: 10px; color: white;">
 <br/>
