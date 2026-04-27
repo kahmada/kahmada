@@ -1,3 +1,11 @@
+<div align="center">
+
+[![42 Stats](https://badge.mediaplus.ma/levi/kahmada)](https://github.com/oakoudad/badge42)
+
+</div>
+
+---
+
 Hello! I'm Khadija Ahmada, a passionate Full Stack Developer specializing in building scalable, secure, and high-performance web applications. I work across the entire development lifecycle — from designing intuitive user interfaces to architecting robust backend systems and deploying production-ready solutions.
 
 My expertise lies in modern web technologies like Next.js, React, Node.js, and Go, combined with strong experience in databases and system design. I focus on writing clean, maintainable code and creating seamless user experiences while ensuring performance and security at every level.
